@@ -44,7 +44,7 @@ The dataset is obtained from [Kaggle Titanic - Machine Learning from Disaster](h
 
 Both models were trained and evaluated using standard metrics like **accuracy**, **confusion matrix**, and **classification report**.
 
----
+--
 
 ##  Results
 
